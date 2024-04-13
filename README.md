@@ -34,7 +34,7 @@ To install and run the Wellness Project locally on your machine, follow these st
 Once the application is running locally or deployed, you can perform the following tasks:
 
 Register and log in to your account.
-Input and track your health metrics such as weight, blood pressure, and blood sugar levels.
+Input and track your health metrics such as weight, BMI, blood pressure, and blood sugar levels.
 View your health data history and analyze trends over time.
 Set health goals and monitor your progress.
 
