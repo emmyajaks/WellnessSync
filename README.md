@@ -41,12 +41,12 @@ Set health goals and monitor your progress.
 ## Contributing
 Contributions to the WellnessSync Project are welcome! To contribute:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-newfeature).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-newfeature).
-Create a new Pull Request.
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-newfeature).
+3. Make your changes.
+4. Commit your changes (git commit -am 'Add new feature').
+5. Push to the branch (git push origin feature-newfeature).
+6. Create a new Pull Request.
 
 ## Related Projects
 Health Tracker App: A similar project for tracking health metrics using Vue.js.
