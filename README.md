@@ -17,7 +17,6 @@ To install and run the Wellness Project locally on your machine, follow these st
    git clone https://github.com/yourusername/wellnessproject.git
 
 2. Navigate to the project directory:
- ```bash
   cd wellnessproject
 
 3. Install dependencies using npm:
