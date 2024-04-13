@@ -21,7 +21,6 @@ To install and run the Wellness Project locally on your machine, follow these st
    cd wellnessproject
 
 3. Install dependencies using npm:
-
  ```bash
 npm install
 
