@@ -6,7 +6,7 @@ The WellnessSync Project is a web application designed to track various health m
 
 - **Deployed Site**: [WellnessSync Project](https://app.flutterflow.io/project/weighty-vacmve?tab=pageSelector&page=HomePage)
 - **Final Project Blog Article**: [Project Blog](https://medium.com/@emmyajaks2016/empowering-health-the-journey-of-wellness-sync-9b5a1772ee92)
-- **Author's LinkedIn**: [Author's LinkedIn Profile](https://www.linkedin.com/in/emmanuel-ajakaiye-a4b34a23a)
+- **Author's LinkedIn**: [Emmanuel Ajakaiye LinkedIn Profile](https://www.linkedin.com/in/emmanuel-ajakaiye-a4b34a23a)
 
 ## Installation
 
