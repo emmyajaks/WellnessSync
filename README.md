@@ -40,6 +40,7 @@ Set health goals and monitor your progress.
 
 ## Related Projects
 Health Tracker App: A similar project for tracking health metrics using Vue.js.
+
 Fitness Dashboard: A dashboard application for fitness enthusiasts.
 
 ## Licensing
