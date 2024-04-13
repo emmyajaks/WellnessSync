@@ -18,18 +18,18 @@ To install and run the Wellness Project locally on your machine, follow these st
 
 2. Navigate to the project directory:
    ```bash
-  cd wellnessproject
+   cd wellnessproject
 
-4. Install dependencies using npm:
+3. Install dependencies using npm:
 
  ```bash
 npm install
 
-5. Start the development server:
+4. Start the development server:
  ```bash
 npm start
 
-6. Open your browser and visit http://localhost:3000 to view the application.
+5. Open your browser and visit http://localhost:3000 to view the application.
 
 ## Usage
 Once the application is running locally or deployed, you can perform the following tasks:
