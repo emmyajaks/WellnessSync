@@ -18,9 +18,10 @@ To install and run the Wellness Project locally on your machine, follow these st
 
 2. Navigate to the project directory:
  ```bash
-cd wellnessproject
+  cd wellnessproject
 
-4. Install dependencies using npm:
+3. Install dependencies using npm:
+
  ```bash
 npm install
 
